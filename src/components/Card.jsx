@@ -5,7 +5,7 @@ function Card({ link, img, title, desc, repo}) {
         <div>
             <article className="card-container">
                 <a href={link} className="image thumb" target="_blank">
-                    <img src={img} alt="deploy" className="w-80 h-56 rounded-lg object-cover" />
+                    <img src={img} alt="deploy" className="w-80 h-56 rounded-lg object-cover card-img" />
                 </a>
                 <div>
                     <h3 className='third-title'>{title}</h3>

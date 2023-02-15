@@ -10,7 +10,6 @@ function Header() {
         <h1>Karen Valier.</h1>
         <span>Full Stack Developer</span>
       </div>
-
       <Icons/>
     </header>
   )

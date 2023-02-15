@@ -5,8 +5,8 @@ import Icons from './Icons'
 function Footer() {
     return (
         <footer id="footer" className="item-footer">
-            <span>&copy; Karen Valier</span>
             <Icons/>
+            <span>&copy; Karen Valier</span>
         </footer>
     )
 }
