@@ -5,9 +5,9 @@ function Info() {
 
         <section id="one">
             <header className="major">
-                <h2 className='sub-title'>¿Quién soy?</h2>
+                <h2 className='sub-title'>About me</h2>
             </header>
-            <p>Soy Desarrolladora Full Stack, con experiencia desarrollando proyectos personales, y cuento con conocimientos en <strong>HTML5, CSS3, JavaScript, MongoDB, Express, React, Git y Github.</strong></p>
+            <p>I am a Full Stack Developer, and I have experience building web applications, both in frontend and backend, and my technical skills are <strong>HTML5, CSS3, JavaScript, MongoDB, Express, React, Git and Github.</strong></p>
             <ul className="actions">
                 <li><a href="#two" className="button">Learn More</a></li>
             </ul>
