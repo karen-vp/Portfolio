@@ -5,7 +5,7 @@ import {SiExpress, SiMongodb} from "react-icons/si";
 function Skills() {
     return (
         <div>
-            <h2>Skills</h2>
+            <h2 className="text-2xl">Skills</h2>
             <ul className='icons-skills'>
                 <li>
                     <DiHtml5 />
@@ -45,7 +45,7 @@ function Skills() {
                 </li>
                 <li>
                     <DiGithubBadge />
-                    <span className="label">Git</span>
+                    <span className="label">Github</span>
                 </li>
 
             </ul>

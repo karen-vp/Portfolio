@@ -60,6 +60,7 @@
     justify-content: center;
 }
 .icons-skills{
+    padding-top: 30px;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
@@ -70,6 +71,7 @@
 
 .icons-skills>li{
     color: #535353;
+    align-self: center;
     text-align: center;
 }
 

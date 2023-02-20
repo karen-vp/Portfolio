@@ -18,7 +18,7 @@ function Portfolio() {
 
                 <Card link="https://homebookcrud.netlify.app/" img={homebook} title="CRUD App - Personal Agenda" desc="This web page was build with HTML, CSS and Javascript." repo="https://github.com/karen-vp/Proyecto-2-CRUD-app" />
 
-                <Card link="https://dashboardbitcoin.netlify.app/" img={dashboard} title="Dashboard App - Bitcoin" desc="This web page was build with React in which a bitcoin exchange rate API is consumed." repo="https://github.com/karen-vp/DashBoard-Bitcoin" />
+                <Card link="https://dashboardbitcoin.netlify.app/" img={dashboard} title="Dashboard App - Bitcoin" desc="This web page was build with HTML, CSS, and JS, in which a bitcoin exchange rate API is consumed." repo="https://github.com/karen-vp/DashBoard-Bitcoin" />
 
                 <Card link="https://tacosrestaurant.netlify.app/" img={restaurantapp} title="Restaurant App - Tacoste" desc="This web page was build with React, React Router, and Firebase as database." repo="https://github.com/karen-vp/restaurante" />
 
