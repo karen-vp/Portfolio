@@ -59,6 +59,19 @@
     align-items: center;
     justify-content: center;
 }
+.icons-skills{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 30px;
+}
+
+.icons-skills>li{
+    color: #535353;
+    text-align: center;
+}
 
 .label {
     text-align: center;

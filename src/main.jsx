@@ -5,8 +5,9 @@ import './index.css'
 import { IconContext } from "react-icons";
 
 ReactDOM.createRoot(document.getElementById('root')).render(
+  // color:'#f6deff',
   <React.StrictMode>
-    <IconContext.Provider value={{  color:'#f6deff', size: '2.5em'}}>
+     <IconContext.Provider value={{size: '2.5em'}}>
       <App />
     </IconContext.Provider>
   </React.StrictMode>,
